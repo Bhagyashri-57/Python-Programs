@@ -1,0 +1,10 @@
+num1=float(input("Enter the first number: "))
+num2=float(input("Enter the second number: "))
+sum_result = num1+num2
+sub_result=num1-num2
+mul_result=num1*num2
+div_result=num1/num2
+print("Sum=",sum_result)
+print("Sub=",sub_result)
+print("Mul=",mul_result)
+print("Div=",div_result)
